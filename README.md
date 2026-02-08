@@ -16,26 +16,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/CuiPenghub/CuiPenghub/output/github-contribution-grid-snake.svg)
 
-### 🛠 Tech Stack
-
-# Hi there 👋
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3366FF&background=00000000&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile.;I+am+a+passionate+developer.;Let's+build+something+amazing+together!" alt="Typing SVG" />
-  </a>
-</div>
-
-### 📈 GitHub Activity Graph:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuiPenghub&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🐍 My Contributions Snake
-
-![snake gif](https://raw.githubusercontent.com/CuiPenghub/CuiPenghub/output/github-contribution-grid-snake.svg)
-
 ### <p align="center">🛠 Tech Stack</p>
 
 <p align="center">
