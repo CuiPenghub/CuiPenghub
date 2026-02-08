@@ -12,8 +12,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuiPenghub&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiPenghub&layout=compact&theme=radical&hide_progress=false" alt="Languages" />
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>>
 
 
 - 👋 Hi, I’m @CuiPenghub
