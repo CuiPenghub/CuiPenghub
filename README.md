@@ -21,7 +21,7 @@
 
 ---
 
-### <p align="center">🐍 My Contributions Snake</p>
+### <p align="center">🐍 My Contributions </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CuiPenghub/CuiPenghub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
