@@ -11,6 +11,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuiPenghub&theme=radical" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiPenghub&layout=compact&theme=radical&hide_progress=false" alt="Languages" />
+</p>
+
 
 - 👋 Hi, I’m @CuiPenghub
 - 👀 I’m interested in the contents of computer programming, artificial intelligence and deep learning
