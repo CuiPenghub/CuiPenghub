@@ -32,9 +32,7 @@
 ### <p align="center">📈 GitHub Activity Graph</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CuiPenghub&show_icons=true&theme=radical" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CuiPenghub&layout=compact&theme=radical" alt="Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuiPenghub&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
