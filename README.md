@@ -11,12 +11,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuiPenghub&theme=radical" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>>
 
+### 🐍 My Contributions Snake
+
+![snake gif](https://raw.githubusercontent.com/CuiPenghub/CuiPenghub/output/github-contribution-grid-snake.svg)
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 - 👋 Hi, I’m @CuiPenghub
 - 👀 I’m interested in the contents of computer programming, artificial intelligence and deep learning
