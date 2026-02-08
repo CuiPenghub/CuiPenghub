@@ -40,11 +40,11 @@
 ### <p align="center">🚀 About Me</p>
 
 - 👋 Hi, I’m **@CuiPenghub**
-- 👀 I’m interested in computer programming, artificial intelligence, and deep learning.
-- 🌱 I am a Master's student in Artificial Intelligence in Australia, soon to graduate.
+- 👀 I’m interested in the contents of computer programming, artificial intelligence and deep learning
+- 🌱 At present, I have absolute love and enthusiasm for programming. At present, I am in the basic stage. I hope to know more like-minded friends on Github and learn more from you.
 - 💻 Currently developing **CC Switch**, an AI API monitor, and other cool projects.
-- 📫 How to reach me: [pengcuiai@icloud.com](mailto:pengcuiai@icloud.com)
-
+- 💞️ If you are willing to help me, or make some suggestions, and I am glad that you can contact me, I also know that progress is reflected in mistakes and corrections.
+- 📫 How to reach me：my Email：[pengcuiai@icloud.com](mailto:pengcuiai@icloud.com)
 ---
 
 <p align="center">
