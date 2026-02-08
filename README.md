@@ -8,13 +8,10 @@
 
 ### 📈 GitHub Activity Graph:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CuiPenghub&show_icons=true&theme=radical" alt="Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiPenghub&layout=compact&theme=radical" alt="Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CuiPenghub&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiPenghub&layout=compact&theme=radical" alt="Top Languages" />
+</p>>
 
 - 👋 Hi, I’m @CuiPenghub
 - 👀 I’m interested in the contents of computer programming, artificial intelligence and deep learning
