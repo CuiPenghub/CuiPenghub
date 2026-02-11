@@ -85,9 +85,13 @@ Kaggle Runner is a powerful VS Code extension that lets you push and run Jupyter
 <p align="center">🚀 About Me</p>
 
 👋 Hi, I'm @CuiPenghub
+
 👀 I'm interested in computer programming, artificial intelligence and deep learning
+
 🌱 I have absolute love and enthusiasm for programming. Currently in the foundational stage — I hope to meet like-minded friends on GitHub and grow together.
+
 💞️ Open to feedback, suggestions, and collaborations! Progress lives in mistakes and corrections.
+
 📫 Reach me at: 1466246366@qq.com
 
 
