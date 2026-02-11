@@ -31,21 +31,6 @@
 [![Kaggle Runner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1500&color=20B2AA&background=00000000&center=true&vCenter=true&width=700&lines=🧩+Kaggle+Runner+—+VSCode+Extension;Run+Kaggle+notebooks+right+from+your+editor!)](https://github.com/CuiPenghub/kaggle-runner)
 
 </div>
-<br/>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100%">
-        <img src="https://img.shields.io/badge/VS%20Code-Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br/>
 
 Kaggle Runner is a powerful VS Code extension that lets you push and run Jupyter notebooks & Python scripts directly on Kaggle's cloud — with GPU/TPU support — without ever leaving your editor.
 
