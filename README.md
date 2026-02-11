@@ -27,9 +27,9 @@
 
 <p align="center">🚀 Featured Project</p>
 <div align="center">
-  <a href="https://github.com/CuiPenghub/kaggle-runner">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1500&color=20B2AA&background=00000000&center=true&vCenter=true&width=700&lines=🧩+Kaggle+Runner+—+VSCode+Extension;Run+Kaggle+notebooks+right+from+your+editor!" alt="Kaggle Runner" />
-  </a>
+
+[![Kaggle Runner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1500&color=20B2AA&background=00000000&center=true&vCenter=true&width=700&lines=🧩+Kaggle+Runner+—+VSCode+Extension;Run+Kaggle+notebooks+right+from+your+editor!)](https://github.com/CuiPenghub/kaggle-runner)
+
 </div>
 <br/>
 <div align="center">
