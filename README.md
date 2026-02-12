@@ -1,11 +1,13 @@
-<p align="center">Hi there 👋</p>
+<h1 align="center">Hi there 👋</h1>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3366FF&background=00000000&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile.;I+am+a+passionate+developer.;Let's+build+something+amazing+together!" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center">🛠 Tech Stack</p>
+<h1 align="center">🛠 Tech Stack</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -15,17 +17,20 @@
   <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<p align="center">🐍 My Contributions</p>
+<h1 align="center">🐍 My Contributions</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/CuiPenghub/CuiPenghub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">📈 GitHub Activity Graph</p>
+<h1 align="center">📈 GitHub Activity Graph</h1>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuiPenghub&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">🚀 Featured Project</p>
+<h1 align="center">🚀 Featured Project</h1>
+
 <div align="center">
 
 [![Kaggle Runner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1500&color=20B2AA&background=00000000&center=true&vCenter=true&width=700&lines=🧩+Kaggle+Runner+—+VSCode+Extension;Run+Kaggle+notebooks+right+from+your+editor!)](https://github.com/CuiPenghub/kaggle-runner)
@@ -82,7 +87,7 @@ Kaggle Runner is a powerful VS Code extension that lets you push and run Jupyter
   </a>
 </div>
 
-<p align="center">🚀 About Me</p>
+<h1 align="center">🚀 About Me</h1>
 
 👋 Hi, I'm @CuiPenghub
 
