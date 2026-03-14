@@ -78,10 +78,6 @@ Kaggle Runner is a powerful VS Code extension that lets you push and run Jupyter
 </div>
 <br/>
 <div align="center">
-  <a href="https://github.com/CuiPenghub/vscode-kaggle-runner">
-    <img src="https://img.shields.io/badge/⭐%20Star%20on%20GitHub-kaggle--runner-3366FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://marketplace.visualstudio.com/items?itemName=PengCui.kaggle-runner">
     <img src="https://img.shields.io/badge/📦%20Install%20from-VS%20Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
